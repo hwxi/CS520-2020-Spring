@@ -1,0 +1,50 @@
+#
+# README for Midterm-1
+#
+
+######
+
+There are 125 points in total.
+
+Earning 100 points is equivalent to
+earning 100%. So you can earn more than
+100% if you score more than 100 points.
+
+######
+
+Q1: 10
+stream_enumerate
+
+######
+
+Q2: Konstant: 5
+Q2: Substitute: 10
+Q2: Contrapos: 10
+
+######
+
+Q3: Encoding: 10
+Q3: Implement: 20
+
+######
+
+There is no Q4 in Midterm-1
+
+######
+
+Q5: mylist_cons: 10
+Q5: mylist_uncons: 10
+
+######
+
+Permute: Permute: 10
+Permute: Permute2: 20
+
+Permute: Permute_next: 10
+
+NB:
+It is not allowed to use
+Permute_next to implement Permute
+
+###### end of [README] ######
+
